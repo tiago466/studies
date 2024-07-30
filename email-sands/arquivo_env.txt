@@ -1,0 +1,10 @@
+# DATABASE
+# SQL SERVER
+DB_CONNECTION_STRING=mssql+pyodbc://sqlserver_user:password@host/DATABASE?driver=ODBC+Driver+17+for+SQL+Server
+
+# E-MAIL
+# CONFIGURATION
+EMAIL_HOST=smtp-mail.com
+EMAIL_PORT=999
+EMAIL_USER=user.lastname@domain.com
+EMAIL_PASSWORD=mailpassword
